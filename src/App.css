@@ -1,0 +1,127 @@
+
+
+/* Navbar */
+
+.navbar{
+    margin-top: 1%;
+}
+
+.aa{
+  width: 2em;
+  margin-left: 3em;
+}
+
+.navbar-brand img{
+  padding-right: 5.7%;
+}
+
+
+.nav-link{
+  margin-right: 1.5em;
+  /* color: white; */
+  /* text-decoration: solid; */
+}
+
+#nn{
+  opacity: 0.7;
+}
+
+
+
+
+.leftnav{
+  margin-right: 15em;
+}
+
+
+
+/* Home */
+
+.one{
+  color: aqua;
+}
+
+#two{
+  margin-top: 8%;
+}
+
+#r{
+  margin-top: 16%;
+  margin-left: 10%;
+}
+
+.colss{
+  width: 50%;
+  margin-left: 20%;
+}
+
+
+
+
+
+/* about us
+
+*/
+.container{
+  /* margin-left: 10%; */
+  margin-top: 10%;
+}
+
+.h{
+  color: yellow;
+  text-align: center;
+}
+
+.hh,.hhhh{
+  color: aqua;
+  text-align: center;
+  margin-top: 0.9%;
+}
+
+
+
+
+#info{
+  margin-top: 4.2%;
+}
+
+
+.pp{
+  color: aliceblue;
+  text-align: center;
+  margin-top: 2.9%;
+}
+
+
+
+.form-label{
+  color: aqua;
+  font-size: 120%;
+  margin-top: 2%;
+}
+
+#ff{
+  width: 70%;
+  margin-left: 18%;
+  margin-top: 10%;
+}
+
+#bb{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 20%;
+}
+
+.form-control{
+    background-color:rgb(241, 230, 241);
+    opacity: 0.6;
+    border: 2px solid purple;
+  }
+  
+
+  .tuss{
+    height: 83%;
+  }
+
+
+
